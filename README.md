@@ -1,0 +1,1 @@
+Recently, a new app was launched in the Google Play Store. However, I have tested this app manually and have made a detailed report of the test cases, which shows what functionalities should be improved.
